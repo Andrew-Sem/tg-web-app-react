@@ -12,6 +12,7 @@ function App() {
     }
   return (
     <div className="App">
+        Losos is losos
         <button onClick={onClose}>Закрыть</button>
     </div>
   );
